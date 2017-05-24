@@ -395,8 +395,6 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onBackPressed() {
-
-
     }
 
     private long exitTime = 0;

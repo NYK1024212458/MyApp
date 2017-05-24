@@ -4,52 +4,16 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\isrdemo.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\isrdemo.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\layout\\list_items.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\wake_activity.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\wake_activity.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\title.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\ttsdemo.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\ttsdemo.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\ivw_activity.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\ivw_activity.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\iatdemo.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\layout\\iatdemo.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\iatdemo.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\iatdemo.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_items.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\list_items.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\oneshot_activity.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\oneshot_activity.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\ivw_activity.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\layout\\ivw_activity.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\main.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\understander.xml",
@@ -62,10 +26,6 @@
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\ttsdemo.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\layout\\ttsdemo.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\understander.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\layout\\understander.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\isrdemo.xml",

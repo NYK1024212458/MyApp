@@ -73,6 +73,8 @@ public class DialogMscControl {
         mSharedPreferences = context.getSharedPreferences(UnderstanderSettings.PREFER_NAME, Activity.MODE_PRIVATE);
 
     }
+    //设置一个延迟的操作
+
 
     public void startDialogMsc() {
         //设置启动的时间
@@ -121,9 +123,6 @@ public class DialogMscControl {
 
             // 设置语音后端点:后端点静音检测时间，即用户停止说话多长时间内即认为不再输入， 自动停止录音
             iatDialog.setParameter(SpeechConstant.VAD_EOS, mSharedPreferences.getString("understander_vadeos_preference", "1000"));
-
-
-
 
             //3.设置回调接口
             RecognizerDialogListener recognizerDialogListener = new RecognizerDialogListener() {
@@ -174,9 +173,6 @@ public class DialogMscControl {
                                     ttsControl.textToLanguage(airQuality + tempRange + weather + wind + "风力等级" + windLeve + "pm25" + pm25);
                                     break;
                                 case "openQA":
-
-                                    //eventbus 实现数据的传递
-
 
                                     //eventbus 实现数据的传递
                                     MessageEvent messageEvenQA = new MessageEvent();

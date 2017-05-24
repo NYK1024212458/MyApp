@@ -106,6 +106,7 @@ public class ChatFragment extends LazyFragment implements View.OnClickListener ,
             case R.id.btn_statr_chant:
                 Log.d(TAG, "onClick: "+"是不是错误的"+btn_statr_chant.toString());
 
+
                 dialogMscControl.startDialogMsc();
 
             break;

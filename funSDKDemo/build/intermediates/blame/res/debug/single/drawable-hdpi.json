@@ -4,44 +4,32 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_camera.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_refresh_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_refresh_normal.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_timing_on.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_timing_on.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_open.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_open.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_timing_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_timing_off.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_down.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_down.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_switch_on.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_mov.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_mov.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_disable.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_switch_disable.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_refresh_normal.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_refresh_normal.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_transcode.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_transcode.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_passwd.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_passwd.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\input_sn_core.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\input_sn_core.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_task_add_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_task_add_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_round_on.png",
@@ -52,12 +40,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_voice_talk_normal.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_record_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_record_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_user_stat_login_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user_stat_login_normal.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_bulbsocket.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_bulbsocket.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_media.png",
@@ -68,24 +52,16 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user_stat_logout_normal.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_close.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_close.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_burst_shoot.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\pic_burst_shoot.png"
     },
     {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_right.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_right.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_cloudbox.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_cloudbox.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_feye.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_feye.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_round_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_round_off.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_right_selected.png",
@@ -100,32 +76,20 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devcapture_normal.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_capture.9.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\scan_capture.9.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_devcapture_selected.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devcapture_selected.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_setting_pressed.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_setting_pressed.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voice_talk_selected.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_voice_talk_selected.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_round_off.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_round_off.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_auto_on.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playback_play_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\playback_play_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_seye.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_seye.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\open_checked.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\open_checked.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_device.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_device.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_capture.9.png",
@@ -136,56 +100,36 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_round_next.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_checked_yes.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_checked_yes.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_passwd_confirm.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_passwd_confirm.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voice_talk_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_voice_talk_selected.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recording.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\recording.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_car.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_car.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_task_add_normal.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_task_add_normal.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_checked.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_checked.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_to_phone_pressed.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\download_to_phone_pressed.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_passwd_confirm.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_passwd_confirm.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_disable.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_switch_disable.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_nor.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_nor.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto_off.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_auto_off.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_usb_open.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_usb_open.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playback_replay.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\playback_replay.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_time_lapse.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\pic_time_lapse.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_back_normal.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_beye.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_beye.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_transcode.png",
@@ -200,20 +144,12 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\playback_play_normal.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back_normal.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_back_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_down_selected.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_down_selected.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_usb_round_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_usb_round_on.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_control_seekbar_thumb_bg.png",
@@ -228,8 +164,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_save_pressed.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_round_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_round_off.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_checked_red.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_checked_red.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_off.png",
@@ -244,20 +180,16 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\logo_app.png"
     },
     {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_socket.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_socket.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\open_normal.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\open_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_round_on.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_round_on.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_user.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_user.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_right_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_right_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_usb_round_on.png",
@@ -268,16 +200,24 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_right_normal.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_up.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_up.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_on.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_switch_on.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_record_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_record_selected.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_round_off.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_round_off.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_up_normal.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_up_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_timing_off.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_timing_off.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_device.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_device.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_task_add_pressed.png",
@@ -288,8 +228,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_left_selected.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_devcapture_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devcapture_selected.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_save_normal.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_save_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_up.png",
@@ -300,36 +240,32 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_record_selected.png"
     },
     {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_unchecked.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_unchecked.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_auto.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_left_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_left_selected.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_pressed.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_pressed.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_round_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_round_on.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_checked_red.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_checked_red.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_rotot.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_rotot.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_cloudbox_klok.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_cloudbox_klok.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_down_normal.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_down_normal.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_burst_shoot.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\pic_burst_shoot.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_to_phone_unpressed.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\download_to_phone_unpressed.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_down_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_down_normal.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_setting_normal.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_setting_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto_nomal.png",
@@ -340,12 +276,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_date.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_usb_round_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_usb_round_off.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_bulbsocket.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_bulbsocket.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_rotot.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_rotot.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto_on.png",
@@ -356,24 +288,24 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_car.png"
     },
     {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_left.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_left.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_fbulb.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_fbulb.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_round_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_round_on.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_nor.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_nor.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_email.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_email.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\open_checked.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\open_checked.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_app.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\logo_app.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_other_login_weibo.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_other_login_weibo.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_time_lapse.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\pic_time_lapse.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_other_login_qq.png",
@@ -382,22 +314,6 @@
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_checked_no.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_checked_no.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_to_phone_unpressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\download_to_phone_unpressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_bg_new.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_bg_new.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_round_next.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_round_next.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_setting_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_setting_pressed.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_default_image.png",
@@ -412,16 +328,28 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_checked_yes.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_setting_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_setting_normal.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_user.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_user.png"
     },
     {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_other_login_weibo.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_other_login_weibo.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_open.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_open.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_user.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_funsdk.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_funsdk.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_devpicture_hand.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devpicture_hand.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_usb_round_off.png",
@@ -440,8 +368,12 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_close.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_open.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_open.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_left_normal.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_left_normal.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_seye.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_seye.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_bg_new.png",
@@ -452,404 +384,36 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_back_pressed.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_date.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_date.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_user_stat_login_normal.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user_stat_login_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_socket.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_socket.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_right.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_right.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_camera.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_camera.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_default_image.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_default_image.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_record_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_record_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrows.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\arrows.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_timing_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_timing_on.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_switch_off.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_refresh_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_refresh_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_cloudbox.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_cloudbox.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_right_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_right_selected.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_passwd.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_passwd.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_left.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_left.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_user_stat_logout_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user_stat_logout_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_bulbsocket.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_bulbsocket.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_line.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\scan_line.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_right.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_right.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\input_sn_core.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\input_sn_core.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_devcapture_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devcapture_selected.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_media.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_media.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_auto.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_setting_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_setting_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_beye.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_beye.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voice_talk_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_voice_talk_selected.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto_nomal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_auto_nomal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_to_phone_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\download_to_phone_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_mask.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\scan_mask.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_funsdk.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_funsdk.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_checked.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_checked.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_mov.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_mov.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_checked_no.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_checked_no.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_disable.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_switch_disable.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_auto_off.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_beye.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_beye.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_save_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_save_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_checked_red.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_checked_red.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xm_logo.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xm_logo.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_socket.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_socket.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_user_stat_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user_stat_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_fbulb.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_fbulb.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_down.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_down.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_other_login_qq.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_other_login_qq.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_devpicture_hand.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devpicture_hand.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_bob.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_bob.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_switch_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_switch_on.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_round_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_round_off.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voice_talk_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_voice_talk_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_up_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_up_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_device.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_device.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_close.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_close.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_timing_on.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_timing_on.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_checked.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_checked.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_save_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_save_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_unchecked.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_unchecked.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recording.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\recording.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_refresh_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_refresh_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_cloudbox_klok.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_cloudbox_klok.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_to_phone_unpressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\download_to_phone_unpressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_setting_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_setting_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_capture_round.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_capture_round.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_task_add_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_task_add_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_rotot.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_rotot.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow_left.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_arrow_left.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_down_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_down_selected.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_nor.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_nor.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_control_seekbar_thumb_bg.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\video_control_seekbar_thumb_bg.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\open_checked.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\open_checked.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_auto_off.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_auto_off.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_bulb.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_bulb.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pic_time_lapse.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\pic_time_lapse.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_back_pressed.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_user.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_usb_close.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_usb_close.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_up_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_up_selected.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_other_login_weibo.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_other_login_weibo.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_open.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_power_open.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_user.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_user.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_devpicture_hand.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devpicture_hand.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_cloudbox_klok.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_cloudbox_klok.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_left_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_left_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xmjp_seye.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xmjp_seye.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_light_open.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_light_open.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_devcapture_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_devcapture_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon_login_passwd.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\user_icon_login_passwd.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\open_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\open_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_usb_close.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_usb_close.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_left_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_left_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_save_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_save_normal.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_pressed.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_pressed.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkbox_normal.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\checkbox_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xm_logo.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\xm_logo.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_unchecked.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_unchecked.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrows.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\arrows.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_record_normal.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_record_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_capture_round.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\socket_capture_round.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_check_fill_red_selected.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\icon_check_fill_red_selected.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\playback_replay.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\playback_replay.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ff_ptz_up_normal.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApplication\\funSDKDemo\\src\\main\\res\\drawable-hdpi\\ff_ptz_up_normal.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\socket_power_close.png",
