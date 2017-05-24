@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/colorPrimaryDark">
+        <ImageButton
+            android:id="@+id/btnBack"
+            style="@style/BackButtonStyle" />
+        <TextView
+            style="@style/ActivityTitleTextStyle"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="建议反馈" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/btnChooseType"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10.0dip"
+        android:background="@color/white">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="11.0dip"
+            android:layout_marginLeft="15.0dip"
+            android:layout_marginTop="11.0dip"
+            android:text="反馈类型"
+            android:textColor="@color/dark_gray_52"
+            android:textSize="16.0sp"
+            android:textStyle="bold" />
+        <ImageView
+            android:id="@+id/imgRightArrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5.0dip"
+            android:padding="10.0dip"
+            android:src="@mipmap/right_arrow" />
+        <TextView
+            android:id="@+id/txtFeedType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="15.0dip"
+            android:layout_marginTop="15.0dip"
+            android:layout_toLeftOf="@id/imgRightArrow"
+            android:text="功能意见"
+            android:textColor="@color/gray_999999"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13.5dip"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/txtFeedback"
+            android:layout_width="fill_parent"
+            android:layout_height="220.0dip"
+            android:layout_marginLeft="15.0dip"
+            android:layout_marginRight="15.0dip"
+            android:layout_marginTop="11.0dip"
+            android:background="@color/white"
+            android:gravity="top"
+            android:hint="请留下您的宝贵意见，我们会持续完善"
+            android:singleLine="false"
+            android:textColor="@color/gray_999999"
+            android:textColorHint="@color/gray_bc"
+            android:textSize="15.0sp" />
+
+        <TextView
+            android:id="@+id/txtWordsTip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13.5dip"
+            android:layout_marginRight="13.5sp"
+            android:gravity="end"
+            android:text="0/100"
+            android:textColor="@color/gray_bc"
+            android:textSize="14.0sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13.5dip"
+        android:background="@color/white">
+
+        <EditText
+            android:id="@+id/txtContact"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="11.0dip"
+            android:layout_marginLeft="15.0dip"
+            android:layout_marginRight="15.0dip"
+            android:layout_marginTop="11.0dip"
+            android:background="@null"
+            android:hint="请留下联系方式"
+            android:inputType="textWebEmailAddress|numberPassword|phone"
+            android:textColor="@color/gray_999999"
+            android:textColorHint="@color/gray_bc"
+            android:textSize="15.0sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50.0dip"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="15.0dip">
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="center_horizontal"
+            android:background="@mipmap/bg_btn"
+            android:text="提交"
+            android:textColor="@color/white"
+            android:textSize="19.0dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>

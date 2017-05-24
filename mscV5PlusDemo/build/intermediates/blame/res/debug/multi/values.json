@@ -1,0 +1,1692 @@
+[
+    {
+        "outputFile": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3490,
+                        "endLine": 96,
+                        "endColumn": 19,
+                        "endOffset": 3625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3631,
+                        "endLine": 101,
+                        "endColumn": 19,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 3807,
+                        "endLine": 107,
+                        "endColumn": 19,
+                        "endOffset": 3914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 3920,
+                        "endLine": 111,
+                        "endColumn": 19,
+                        "endOffset": 4022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2964,
+                        "endLine": 79,
+                        "endColumn": 19,
+                        "endOffset": 3171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3177,
+                        "endLine": 87,
+                        "endColumn": 19,
+                        "endOffset": 3377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1823,
+                        "endLine": 43,
+                        "endColumn": 19,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2242,
+                        "endLine": 63,
+                        "endColumn": 19,
+                        "endOffset": 2727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 1827,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 1931
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 5,
+                        "startOffset": 2734,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 2841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 1936,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2847,
+                        "endLine": 71,
+                        "endColumn": 19,
+                        "endOffset": 2958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 47,
+                    "endOffset": 2092
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 47,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2097,
+                    "endColumn": 54,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endColumn": 45,
+                    "endOffset": 2193
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 45,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2198,
+                    "endColumn": 39,
+                    "endOffset": 2233
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 39,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2238,
+                    "endColumn": 39,
+                    "endOffset": 2273
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 39,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2278,
+                    "endColumn": 41,
+                    "endOffset": 2315
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 41,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2320,
+                    "endColumn": 38,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 38,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endColumn": 37,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 37,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endColumn": 39,
+                    "endOffset": 2432
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 39,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2437,
+                    "endColumn": 56,
+                    "endOffset": 2489
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 56,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2494,
+                    "endColumn": 55,
+                    "endOffset": 2545
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 55,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2550,
+                    "endColumn": 43,
+                    "endOffset": 2589
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 43,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2594,
+                    "endColumn": 46,
+                    "endOffset": 2636
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2641,
+                    "endColumn": 120,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 120,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endColumn": 89,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4054,
+                        "endColumn": 89,
+                        "endOffset": 4139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endColumn": 111,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4240,
+                        "endColumn": 111,
+                        "endOffset": 4347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endColumn": 121,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4353,
+                        "endColumn": 121,
+                        "endOffset": 4470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 54,
+                    "endOffset": 3136
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 54,
+                        "endOffset": 1738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3141,
+                    "endColumn": 54,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1744,
+                        "endColumn": 54,
+                        "endOffset": 1794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endColumn": 45,
+                    "endOffset": 3237
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 51,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3242,
+                    "endColumn": 57,
+                    "endOffset": 3295
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1344,
+                        "endColumn": 57,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3300,
+                    "endColumn": 54,
+                    "endOffset": 3350
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 54,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3355,
+                    "endColumn": 214,
+                    "endOffset": 3565
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 214,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3570,
+                    "endColumn": 156,
+                    "endOffset": 3722
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 162,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3727,
+                    "endColumn": 414,
+                    "endOffset": 4137
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 414,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4142,
+                    "endColumn": 165,
+                    "endOffset": 4303
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 1100,
+                        "endColumn": 162,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4308,
+                    "endColumn": 54,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1403,
+                        "endColumn": 54,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 52,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1517,
+                        "endColumn": 52,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 56,
+                    "endOffset": 4468
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 56,
+                        "endOffset": 1511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4473,
+                    "endColumn": 59,
+                    "endOffset": 4528
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1571,
+                        "endColumn": 59,
+                        "endOffset": 1626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4533,
+                    "endColumn": 82,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3383,
+                        "endLine": 90,
+                        "endColumn": 48,
+                        "endOffset": 3467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 93,
+                    "endOffset": 4705
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4145,
+                        "endColumn": 93,
+                        "endOffset": 4234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4710,
+                    "endLine": 125,
+                    "endColumn": 9,
+                    "endOffset": 5234
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApplication\\mscV5PlusDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 6,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 9,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3490,
+                        "endLine": 96,
+                        "endColumn": 19,
+                        "endOffset": 3625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3631,
+                        "endLine": 101,
+                        "endColumn": 19,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 3807,
+                        "endLine": 107,
+                        "endColumn": 19,
+                        "endOffset": 3914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 3920,
+                        "endLine": 111,
+                        "endColumn": 19,
+                        "endOffset": 4022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2964,
+                        "endLine": 79,
+                        "endColumn": 19,
+                        "endOffset": 3171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3177,
+                        "endLine": 87,
+                        "endColumn": 19,
+                        "endOffset": 3377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1823,
+                        "endLine": 43,
+                        "endColumn": 19,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2242,
+                        "endLine": 63,
+                        "endColumn": 19,
+                        "endOffset": 2727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 1827,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 1931
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 5,
+                        "startOffset": 2734,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 2841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 1936,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2847,
+                        "endLine": 71,
+                        "endColumn": 19,
+                        "endOffset": 2958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 47,
+                    "endOffset": 2092
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 47,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2097,
+                    "endColumn": 54,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 54,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endColumn": 45,
+                    "endOffset": 2193
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 45,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2198,
+                    "endColumn": 39,
+                    "endOffset": 2233
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 39,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2238,
+                    "endColumn": 39,
+                    "endOffset": 2273
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 39,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2278,
+                    "endColumn": 41,
+                    "endOffset": 2315
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 41,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2320,
+                    "endColumn": 38,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 38,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endColumn": 37,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 37,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endColumn": 39,
+                    "endOffset": 2432
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 39,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2437,
+                    "endColumn": 56,
+                    "endOffset": 2489
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 79,
+                        "endColumn": 56,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2494,
+                    "endColumn": 55,
+                    "endOffset": 2545
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 55,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2550,
+                    "endColumn": 43,
+                    "endOffset": 2589
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 43,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2594,
+                    "endColumn": 46,
+                    "endOffset": 2636
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2641,
+                    "endColumn": 120,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 120,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endColumn": 89,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4054,
+                        "endColumn": 89,
+                        "endOffset": 4139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endColumn": 111,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4240,
+                        "endColumn": 111,
+                        "endOffset": 4347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endColumn": 121,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4353,
+                        "endColumn": 121,
+                        "endOffset": 4470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 54,
+                    "endOffset": 3136
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 54,
+                        "endOffset": 1738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3141,
+                    "endColumn": 54,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1744,
+                        "endColumn": 54,
+                        "endOffset": 1794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endColumn": 45,
+                    "endOffset": 3237
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 51,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3242,
+                    "endColumn": 57,
+                    "endOffset": 3295
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1344,
+                        "endColumn": 57,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3300,
+                    "endColumn": 54,
+                    "endOffset": 3350
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 54,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3355,
+                    "endColumn": 214,
+                    "endOffset": 3565
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 214,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3570,
+                    "endColumn": 156,
+                    "endOffset": 3722
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 162,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3727,
+                    "endColumn": 414,
+                    "endOffset": 4137
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 414,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4142,
+                    "endColumn": 165,
+                    "endOffset": 4303
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 1100,
+                        "endColumn": 162,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4308,
+                    "endColumn": 54,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1403,
+                        "endColumn": 54,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 52,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1517,
+                        "endColumn": 52,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 56,
+                    "endOffset": 4468
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 56,
+                        "endOffset": 1511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4473,
+                    "endColumn": 59,
+                    "endOffset": 4528
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1571,
+                        "endColumn": 59,
+                        "endOffset": 1626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4533,
+                    "endColumn": 82,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3383,
+                        "endLine": 90,
+                        "endColumn": 48,
+                        "endOffset": 3467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 93,
+                    "endOffset": 4705
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4145,
+                        "endColumn": 93,
+                        "endOffset": 4234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4710,
+                    "endLine": 125,
+                    "endColumn": 9,
+                    "endOffset": 5234
+                },
+                "from": {
+                    "file": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 6,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 9,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    }
+]

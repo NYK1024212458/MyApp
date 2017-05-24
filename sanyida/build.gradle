@@ -1,0 +1,84 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.baituoyitong.kun.baituoyitong"
+        minSdkVersion 16
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        multiDexEnabled true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    //  注意这是导入jar之后的配置  记得同步
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    testCompile 'junit:junit:4.12'
+    compile files('libs/Msc.jar')
+    compile files('libs/Sunflower.jar')
+    //compile 'com.google.code.gson:gson:2.2.4'
+    //设置的是展示viewpage的指示器的一个依赖
+    compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
+    //event bus 的使用
+    compile 'org.greenrobot:eventbus:3.0.0'
+    //上传头像和选择视频的
+    compile 'com.bilibili:boxing-impl:0.6.0'
+    //使用fresco来处理上传的图片
+    compile 'com.facebook.fresco:fresco:1.2.0'
+    // 在 API < 14 上的机器支持 WebP 时，需要添加
+    compile 'com.facebook.fresco:animated-base-support:0.12.0'
+    // 支持 GIF 动图，需要添加
+    compile 'com.facebook.fresco:animated-gif:0.12.0'
+    // 支持 WebP （静态图+动图），需要添加
+    compile 'com.facebook.fresco:animated-webp:0.12.0'
+    compile 'com.facebook.fresco:webpsupport:0.12.0'
+    // 仅支持 WebP 静态图，需要添加
+    compile 'com.facebook.fresco:webpsupport:0.12.0'
+    //  UCrop的依赖
+    compile('com.yalantis:ucrop:2.2.0') {
+        exclude group: 'com.android.support'
+        exclude group: 'com.squareup.okio'
+        exclude group: 'com.squareup.okhttp3'
+    }
+    //上面的结束了!
+    //bmob-sdk：Bmob的android sdk包，包含了Bmob的数据存储、文件等服务，以下是最新的bmob-sdk:
+    //3.5.0：请务必查看下面注释[1]
+    compile 'cn.bmob.android:bmob-sdk:3.5.0'
+    /* //bmob-push：Bmob的推送包
+        compile 'cn.bmob.android:bmob-push:0.8'*/
+    //如果你想应用能够兼容Android6.0，请添加此依赖(org.apache.http.legacy.jar)
+    compile 'cn.bmob.android:http-legacy:1.0'
+    //生成二维码的依赖
+    compile 'cn.yipianfengye.android:zxing-library:2.1'
+    compile files('libs/Bmob_Push_V1.0.0beta_20160627.jar')
+    //依赖  oom的检测
+   /* debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5.1'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'
+    testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'*/
+    //数据下载的依赖
+    compile 'org.xutils:xutils:3.5.0'
+    compile files('libs/xUtils-2.6.14.jar')
+}

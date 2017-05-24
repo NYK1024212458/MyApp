@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_second_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10.0dip"
+        android:layout_marginLeft="15.0dip"
+        android:layout_marginTop="10.0dip"
+        android:background="@mipmap/search_box"
+        android:gravity="center_vertical">
+
+        <EditText
+            android:id="@+id/et_search_content"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:drawableLeft="@mipmap/search_icon"
+            android:drawablePadding="5.0dip"
+            android:hint="点此输入关键词进行搜索"
+            android:imeOptions="actionSearch"
+            android:padding="5.0dip"
+            android:singleLine="true"
+            android:textColor="#ff0e0e0e"
+            android:textColorHint="#ffb0c6ce"
+            android:textSize="14.0sp" />
+
+        <ImageView
+            android:id="@+id/btnSearchCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5.0dip"
+            android:src="@mipmap/search_cancel"
+             />
+
+        <Button
+            android:id="@+id/btnSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5.0dip"
+            android:text="搜索"
+            android:textSize="14.0sp"
+             />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/lv_show_message"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+        android:dividerHeight="5dp"
+        android:scrollbars="none" />
+
+</LinearLayout>

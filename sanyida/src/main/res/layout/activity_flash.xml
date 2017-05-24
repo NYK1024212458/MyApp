@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_flash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:background="#ffcc00"
+        android:id="@+id/iv_gg"
+        android:src="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.baituoyitong.kun.baituoyitong.mainpackage.view.CustomTimerView
+            android:id="@+id/cv_customtim_view"
+            android:layout_margin="8dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            app:background_color="@color/black_888888"
+            app:border_width="5dp"
+            app:border_color="@color/blue_afe"
+            app:text="测试的文字"
+            app:text_color="@color/colorAccent"
+            app:text_size="14sp"
+            >
+
+        </com.baituoyitong.kun.baituoyitong.mainpackage.view.CustomTimerView>
+    </RelativeLayout>
+</FrameLayout>

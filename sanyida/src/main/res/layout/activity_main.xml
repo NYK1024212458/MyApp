@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@+id/my_drawlayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    <LinearLayout
+        android:id="@+id/fragment_main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--自定义toolbar-->
+
+        <RelativeLayout
+            android:id="@+id/frame_main_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#3F51B5">
+
+            <TextView
+
+                android:id="@+id/tv_show_tittle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="8dp"
+                android:text="易休" />
+            <!--二维码分享按钮-->
+            <Button
+                android:id="@+id/btn_share_zxing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_margin="8dp"
+                android:text="分享" />
+
+            <ImageView
+                android:layout_marginLeft="20dp"
+                android:id="@+id/iv_control_drawlayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/menu"
+                android:adjustViewBounds="false"
+                android:layout_marginStart="20dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+        <com.astuetz.PagerSlidingTabStrip
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#3366cc">
+        </com.astuetz.PagerSlidingTabStrip>
+        <!--      会话布局-->
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vg_mian_communicate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></android.support.v4.view.ViewPager>
+    </LinearLayout>
+        <com.baituoyitong.kun.baituoyitong.mainpackage.view.CustomFAB
+            android:visibility="gone"
+            android:id="@+id/fab_main_customfab"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:src="@android:drawable/ic_input_add"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            custom:bg_color="@color/light_blue"
+            android:tint="@android:color/white"
+            />
+    </RelativeLayout>
+    <!--展开之后的布局-->
+    <fragment
+        android:id="@+id/fragment_personinfo"
+        android:name="com.baituoyitong.kun.baituoyitong.mainpackage.fragment.PersonInfoFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        />
+
+</android.support.v4.widget.DrawerLayout>

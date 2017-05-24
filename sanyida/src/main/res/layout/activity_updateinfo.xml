@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/itemUserID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/setting_activity_margin_top"
+        android:background="@color/white"
+        android:padding="@dimen/setting_item_padding">
+
+        <TextView
+            android:id="@+id/lblUserID"
+            style="@style/SettingLabelStyle"
+            android:layout_alignParentLeft="true"
+            android:text="注册的ID:" />
+
+        <TextView
+            android:id="@+id/txtUserID"
+            style="@style/SettingValueStyle"
+            android:layout_toRightOf="@id/lblUserID"
+            android:text="\ 888888888" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/divider_line" />
+
+    <RelativeLayout
+        android:id="@+id/itemAccount"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="@dimen/setting_item_padding">
+
+        <TextView
+            android:id="@+id/lblAccount"
+            style="@style/SettingLabelStyle"
+            android:layout_alignParentLeft="true"
+            android:text="登录的账号:" />
+
+        <TextView
+            android:id="@+id/txtAccount"
+            style="@style/SettingValueStyle"
+            android:layout_toRightOf="@id/lblAccount"
+            android:text="\ 13888888888" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/divider_line" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10.0dip"
+        android:background="@mipmap/divider_line" />
+
+    <RelativeLayout
+        android:id="@+id/itemNickname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="@dimen/setting_item_padding">
+
+        <TextView
+            android:id="@+id/lblNickname"
+            style="@style/SettingLabelStyle"
+            android:layout_alignParentLeft="true"
+            android:text="个性签名:" />
+
+        <TextView
+            android:id="@+id/txtNickname"
+            style="@style/SettingValueStyle"
+            android:layout_toRightOf="@id/lblNickname"
+            android:text="不一样的烟火.开花吧!" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@mipmap/right_arrow" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/divider_line" />
+
+    <RelativeLayout
+        android:id="@+id/itemMobile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="@dimen/setting_item_padding">
+
+        <TextView
+            android:id="@+id/lblMobile"
+            style="@style/SettingLabelStyle"
+            android:layout_alignParentLeft="true"
+            android:text="手机号码:" />
+
+        <TextView
+            android:id="@+id/txtMobile"
+            style="@style/SettingValueStyle"
+            android:layout_toRightOf="@id/lblMobile"
+            android:text="" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@mipmap/right_arrow" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/divider_line" />
+
+    <RelativeLayout
+        android:id="@+id/itemEmail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="@dimen/setting_item_padding"
+        >
+
+        <TextView
+            android:id="@+id/lblEmail"
+            style="@style/SettingLabelStyle"
+            android:layout_alignParentLeft="true"
+            android:text="邮箱:" />
+
+        <TextView
+            android:id="@+id/txtEmail"
+            style="@style/SettingValueStyle"
+            android:layout_toRightOf="@id/lblEmail"
+            android:text="" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@mipmap/right_arrow" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/divider_line" />
+
+    <RelativeLayout
+        android:id="@+id/itemSex"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="@dimen/setting_item_padding"
+       >
+
+        <TextView
+            android:id="@+id/lblSex"
+            style="@style/SettingLabelStyle"
+            android:layout_alignParentLeft="true"
+            android:text="性别:"/>
+
+        <TextView
+            android:id="@+id/txtSex"
+            style="@style/SettingValueStyle"
+            android:layout_toRightOf="@id/lblSex"
+            android:text="" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@mipmap/right_arrow" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/divider_line" />
+
+    <RelativeLayout
+        android:id="@+id/itemBirthday"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="@dimen/setting_item_padding"
+        >
+
+        <TextView
+            android:id="@+id/lblBirthday"
+            style="@style/SettingLabelStyle"
+            android:layout_alignParentLeft="true"
+            android:text="生日:" />
+
+        <TextView
+            android:id="@+id/txtBirthday"
+            style="@style/SettingValueStyle"
+            android:layout_toRightOf="@id/lblBirthday" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@mipmap/right_arrow" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/divider_line" />
+</LinearLayout>

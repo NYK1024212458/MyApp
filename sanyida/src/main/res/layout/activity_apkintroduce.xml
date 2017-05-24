@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@mipmap/bg"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15.0dip"
+        android:background="@null">
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            style="@style/BackButtonStyle" />
+
+        <TextView
+            style="@style/ActivityTitleTextStyle"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="易休机器人说明" />
+    </RelativeLayout>
+
+    <TextView
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/txtAboutUs"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/btnBack"
+        android:background="@null"
+        android:padding="8.0dip"
+        android:text="展示一些apk的使用说明"
+        android:textColor="@android:color/white"
+        android:textSize="16.0sp" />
+</LinearLayout>

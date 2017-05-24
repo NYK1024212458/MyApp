@@ -1,0 +1,3 @@
+include ':u_share_app', ':sanyida'
+include ':funSDKDemo'
+include ':mscV5PlusDemo'

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@color/gray_light"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgPlaying"
+            android:layout_width="45.0dip"
+            android:layout_height="45.0dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10.0dip"
+            android:src="@mipmap/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8.0dip"
+            android:layout_marginRight="3.0dip"
+            android:layout_toLeftOf="@+id/btnPlayPause"
+            android:layout_toRightOf="@id/imgPlaying"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_sound_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5.0dip"
+                android:singleLine="true"
+                android:text="名称"
+                android:textColor="#ff323232"
+                android:textSize="15.0sp" />
+
+            <TextView
+                android:id="@+id/tv_sound_author"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="作者"
+                android:singleLine="true"
+                android:textColor="#ff8b8b8b"
+                android:textSize="12.0sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5.0dip"
+            android:padding="15.0dip"
+            android:src="@mipmap/next" />
+        <ImageView
+            android:id="@id/btnPlayPause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/btnNext"
+            android:padding="10.0dip"
+            android:src="@mipmap/play" />
+
+        <SeekBar
+            android:visibility="gone"
+            android:id="@+id/sb_control_process"
+            android:layout_marginTop="4dp"
+            android:layout_below="@id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/playProgress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone" />
+</LinearLayout>
