@@ -55,7 +55,7 @@ public class DialogMscControl {
     //创建Tag的标识
     private static final String TAG = DialogMscControl.class.getSimpleName();
     private RecognizerDialog iatDialog;
-    private List<String> responseResultList;
+
     private List<String> clientSpeakerList;
     private List<WeatherRwsponseInfo> allMessageBody;
     private TtsControl ttsControl;
@@ -65,7 +65,7 @@ public class DialogMscControl {
 
     public DialogMscControl(Context context) {
         this.mContext = context;
-        responseResultList = new ArrayList<>();
+
         // 获取客户输入的text
         clientSpeakerList = new ArrayList<>();
         allMessageBody = new ArrayList<>();
@@ -163,7 +163,7 @@ public class DialogMscControl {
                                     String wind = weatherRwsponseInfo.data.result.get(0).wind;
                                     String windLeve = weatherRwsponseInfo.data.result.get(0).windLevel + "";
                                     String pm25 = weatherRwsponseInfo.data.result.get(0).pm25 + "";
-                                    responseResultList.add(airQuality + tempRange + weather + wind + "风力等级" + windLeve + "pm25" + pm25);
+
 
                                     //eventbus 实现数据的传递
                                     MessageEvent messageEvent1 = new MessageEvent();
@@ -174,7 +174,7 @@ public class DialogMscControl {
                                     ttsControl.textToLanguage(airQuality + tempRange + weather + wind + "风力等级" + windLeve + "pm25" + pm25);
                                     break;
                                 case "openQA":
-                                    responseResultList.add(weatherRwsponseInfo.answer.text);
+
                                     //eventbus 实现数据的传递
 
 
@@ -189,7 +189,7 @@ public class DialogMscControl {
 
                                     break;
                                 case "chat":
-                                    responseResultList.add(weatherRwsponseInfo.answer.text);
+
 
                                     //eventbus 实现数据的传递
                                     MessageEvent messageEvenchat = new MessageEvent();
@@ -251,7 +251,7 @@ public class DialogMscControl {
                                     String pm = weatherRwsponseInfo.data.result.get(0).pm25 + "";
                                     String airQuality2 = weatherRwsponseInfo.data.result.get(0).airQuality;
                                     String publishDateTime = weatherRwsponseInfo.data.result.get(0).publishDateTime;
-                                    responseResultList.add("airQuality2 + pm + publishDateTime");
+
 
                                     //eventbus 实现数据的传递
                                     MessageEvent messageEvenpmt = new MessageEvent();
@@ -355,7 +355,6 @@ public class DialogMscControl {
                                     break;
                                 case "baike":
                                     //百科
-                                    responseResultList.add(weatherRwsponseInfo.answer.text);
 
                                     //eventbus 实现数据的传递
                                     MessageEvent messageEvenbaike = new MessageEvent();
@@ -371,7 +370,6 @@ public class DialogMscControl {
                                     //菜谱
                                     String accessory = weatherRwsponseInfo.data.result.get(0).accessory;
                                     String ingredient = weatherRwsponseInfo.data.result.get(0).ingredient;
-                                    responseResultList.add(accessory + ingredient);
 
                                     //eventbus 实现数据的传递
                                     MessageEvent cookbook = new MessageEvent();
@@ -385,7 +383,6 @@ public class DialogMscControl {
                                 case "fap":
                                     //社区问答
                                     //百科
-                                    responseResultList.add(weatherRwsponseInfo.answer.text);
 
                                     //eventbus 实现数据的传递
                                     MessageEvent fap = new MessageEvent();
@@ -400,7 +397,6 @@ public class DialogMscControl {
                                 case "calc":
                                     //计算
 
-                                    responseResultList.add(weatherRwsponseInfo.answer.text);
 
                                     //eventbus 实现数据的传递
                                     MessageEvent calc = new MessageEvent();
@@ -412,7 +408,6 @@ public class DialogMscControl {
                                     ttsControl.textToLanguage(weatherRwsponseInfo.answer.text);
                                     break;
                                 default:
-                                    responseResultList.add("其他服务平台,请重新输入");
 
                                     //eventbus 实现数据的传递
                                     MessageEvent messageEvenother = new MessageEvent();
@@ -427,7 +422,6 @@ public class DialogMscControl {
                             }
                             break;
                         case 1:
-                            responseResultList.add("无效请求,请重新输入");
 
                             //eventbus 实现数据的传递
                             MessageEvent messageEvent1 = new MessageEvent();
@@ -436,47 +430,47 @@ public class DialogMscControl {
                             EventBus.getDefault().post(messageEvent1);
 
                             //无效请求
-                            ttsControl.textToLanguage("无效请求,请重新输入");
-
+                            ttsControl.textToLanguage("");
+                            Log.d(TAG, "onResult: rc=1"+"无效请求,请重新输入");
                             break;
                         case 2:
-                            responseResultList.add("服务器内部错误,请重新输入");
 
                             //eventbus 实现数据的传递
                             MessageEvent messageEvent2 = new MessageEvent();
                             messageEvent2.eventBusCode = 2;
-                            messageEvent2.responseSpeakTest = "服务器内部错误,请重新输入";
+                            messageEvent2.responseSpeakTest = "";
                             EventBus.getDefault().post(messageEvent2);
 
                             //服务器内部错误
                             ttsControl.textToLanguage("服务器内部错误,请重新输入");
+                            Log.d(TAG, "onResult: rc=2"+"");
 
                             break;
                         case 3:
-                            responseResultList.add("业务操作失败,请重新输入");
 
                             //eventbus 实现数据的传递
                             MessageEvent messageEvent3 = new MessageEvent();
                             messageEvent3.eventBusCode = 2;
-                            messageEvent3.responseSpeakTest = "业务操作失败,请重新输入";
+                            messageEvent3.responseSpeakTest = "";
                             EventBus.getDefault().post(messageEvent3);
 
                             //业务操作失败
-                            ttsControl.textToLanguage("业务操作失败,请重新输入");
+                            ttsControl.textToLanguage("");
 
+                            Log.d(TAG, "onResult: rc=3"+"业务操作失败,请重新输入");
                             break;
                         case 4:
-                            responseResultList.add("服务器错误,请重新输入");
 
 
                             //eventbus 实现数据的传递
                             MessageEvent messageEvent4 = new MessageEvent();
                             messageEvent4.eventBusCode = 2;
-                            messageEvent4.responseSpeakTest = "没有听清楚,能再次说一次吗?";
+                            messageEvent4.responseSpeakTest = "";
                             EventBus.getDefault().post(messageEvent4);
 
                             //你的输入没有人可以理解,请重新输入
-                            ttsControl.textToLanguage("没有听清楚,能再次说一次吗?");
+                            ttsControl.textToLanguage("");
+                            Log.d(TAG, "onResult: rc=4"+"服务器错误,请重新输入");
                             break;
                     }
 
@@ -498,9 +492,21 @@ public class DialogMscControl {
 
                 }
             };
+            iatDialog. setCanceledOnTouchOutside(true);
             iatDialog.setListener(recognizerDialogListener);
+            //设置不可以消失
+            iatDialog.setCancelable(true);
+            iatDialog.setOnCancelListener(new DialogInterface.OnCancelListener() {
+                @Override
+                public void onCancel(DialogInterface dialog) {
+                    //  设置关闭
+                    startDialogMsc();
+                }
+            });
             //4.开始听写
             iatDialog.show();
+
+
             //表示一次会话结束
 
         }
@@ -522,6 +528,9 @@ public class DialogMscControl {
                     System.exit(0);
                 }
             });
+            //  设置不可以点击取消
+
+
             builder.show();
         }
     }
@@ -534,7 +543,6 @@ public class DialogMscControl {
     }
 
     private void passCall() {
-        responseResultList.add("打电话还没有做完,需要sim卡,还没有做完");
 
         //eventbus 实现数据的传递
         MessageEvent messageEventelephone = new MessageEvent();
@@ -580,6 +588,9 @@ public class DialogMscControl {
 
         void onFinishedTts();
     }
+
+
+
 
 
 }

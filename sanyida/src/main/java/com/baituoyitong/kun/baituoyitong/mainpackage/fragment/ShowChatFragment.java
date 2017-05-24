@@ -50,6 +50,10 @@ public class ShowChatFragment  extends Fragment implements View.OnClickListener 
     private ChatMsgViewAdapter mAdapter1;
     private ImageView btnSearchCancel1;
 
+    public ShowChatFragment(Context context) {
+        mContext=context;
+    }
+
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {

@@ -25,6 +25,7 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
 import com.astuetz.PagerSlidingTabStrip;
 import com.baituoyitong.kun.baituoyitong.R;
 import com.baituoyitong.kun.baituoyitong.mainpackage.adapter.MyPagerAdapter;
@@ -39,8 +40,10 @@ import com.baituoyitong.kun.baituoyitong.mainpackage.utils.ToastUtils;
 import com.baituoyitong.kun.baituoyitong.mainpackage.view.CustomFAB;
 import com.iflytek.cloud.SpeechConstant;
 import com.iflytek.cloud.SpeechUtility;
+
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -88,17 +91,17 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         // 最新的思路  就是一个viewpage嵌套 fragment来完成   各个操作是fragment中实现的
         initMainView();
         //将操作都在fragment里面
-       initEvenbus();
+        initEvenbus();
 
         //设置浮动按钮的点击事件
-       // initFAB();
+        // initFAB();
     }
 
     private void initFAB() {
 
         fab_main_customfab = (CustomFAB) findViewById(R.id.fab_main_customfab);
         //  // TODO: 2017/4/27    要是  蓝牙连接状态没有连接或者是连接的uuid不是我们设置的 将不会显示   默认是不显示的
-        if (true){
+        if (true) {
 
             fab_main_customfab.setVisibility(View.VISIBLE);
 
@@ -121,11 +124,11 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         // 创建fragment的集合  创建fragmnet的list
         fragmentList = new ArrayList<>();
         //创建fragment
-        if (chatFragment==null){
-            chatFragment = new ChatFragment();
+        if (chatFragment == null) {
+            chatFragment = new ChatFragment(mContext);
         }
-        if (showChatFragment==null){
-            showChatFragment = new ShowChatFragment();
+        if (showChatFragment == null) {
+            showChatFragment = new ShowChatFragment(mContext);
         }
         //添加到集合
         fragmentList.add(chatFragment);
@@ -143,7 +146,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void initChenjinshi() {
-       // TODO: 2017/4/17   沉浸式的实现
+        // TODO: 2017/4/17   沉浸式的实现
 
     }
 
@@ -160,6 +163,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private boolean isOpenDrawlayout = true;
+
     private void initKeDaXunFei() {
         //初始化科大讯飞
 
@@ -228,7 +232,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.fab_main_customfab:
                 //浮动按钮的点击事件
-                Intent intent1 = new Intent(mContext,MusicDiscoveActivity.class);
+                Intent intent1 = new Intent(mContext, MusicDiscoveActivity.class);
                 startActivity(intent1);
                 break;
         }
@@ -236,22 +240,22 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     //接收evetnbus
-   @Subscribe
-   public void onMessageEvent(MessageEvent event) {
-       if (event.eventBusCode==21){
-           LinearLayout ll_all = (LinearLayout) event.startThemeView;
-           //呼气btn
-           buttonList = event.buttonList;
-           //设置动画是我们需要的
-           showAnimation();
-           //设置主题的颜色
-           toggleThemeSetting();
-           //刷新的界面
-           refreshUI(ll_all);
-           Log.d(TAG, "onMessageEvent: 看看主线程收到没有"+mDayNightHelper.isDay());
-       }
+    @Subscribe
+    public void onMessageEvent(MessageEvent event) {
+        if (event.eventBusCode == 21) {
+            LinearLayout ll_all = (LinearLayout) event.startThemeView;
+            //呼气btn
+            buttonList = event.buttonList;
+            //设置动画是我们需要的
+            showAnimation();
+            //设置主题的颜色
+            toggleThemeSetting();
+            //刷新的界面
+            refreshUI(ll_all);
+            Log.d(TAG, "onMessageEvent: 看看主线程收到没有" + mDayNightHelper.isDay());
+        }
 
-   }
+    }
 
     private void initTheme() {
         mDayNightHelper = new CommonSPHelper(this);
@@ -332,6 +336,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      * 刷新UI界面
+     *
      * @param ll_all
      */
     private void refreshUI(LinearLayout ll_all) {
@@ -341,7 +346,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         theme.resolveAttribute(R.attr.clockBackground, background, true);
         theme.resolveAttribute(R.attr.clockTextColor, textColor, true);
         Resources resources = getResources();
-       // .(resources.getColor(textColor.resourceId));
+        // .(resources.getColor(textColor.resourceId));
 
         ll_all.setBackgroundResource(background.resourceId);
 
@@ -369,7 +374,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     protected void onRestart() {
         super.onRestart();
         //  开始再次调用一下子
-        if ( chatFragment.dialogMscControl!=null){
+        if (chatFragment.dialogMscControl != null) {
             chatFragment.dialogMscControl.startDialogMsc();
         }
 
@@ -384,6 +389,32 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onDestroy() {
         super.onDestroy();
-    EventBus.getDefault().unregister(this);
+        EventBus.getDefault().unregister(this);
     }
+
+
+    @Override
+    public void onBackPressed() {
+
+
+    }
+
+    private long exitTime = 0;
+
+
+    public void ExitApp() {
+
+        if ((System.currentTimeMillis() - exitTime) > 2000) {
+            ToastUtils.showToast(mContext, "在嗯一次退出");
+            exitTime = System.currentTimeMillis();
+        } else {
+            finish();
+        }
+    }
+
+    public void quit (View view){
+        ExitApp();
+
+    }
+
 }

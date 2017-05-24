@@ -75,10 +75,16 @@ dependencies {
     compile 'cn.yipianfengye.android:zxing-library:2.1'
     compile files('libs/Bmob_Push_V1.0.0beta_20160627.jar')
     //依赖  oom的检测
-   /* debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5.1'
-    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'
-    testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'*/
+    /* debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5.1'
+     releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'
+     testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.1'*/
     //数据下载的依赖
     compile 'org.xutils:xutils:3.5.0'
     compile files('libs/xUtils-2.6.14.jar')
+
+// 实现图片的轮播
+
+    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.slider:library:1.1.5@aar'
 }

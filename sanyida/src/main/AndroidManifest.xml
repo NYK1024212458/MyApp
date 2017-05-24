@@ -67,6 +67,7 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
     <application
+        android:largeHeap="true"
         android:name=".mainpackage.application.MyApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"

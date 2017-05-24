@@ -63,7 +63,9 @@
         <android.support.v4.view.ViewPager
             android:id="@+id/vg_mian_communicate"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"></android.support.v4.view.ViewPager>
+            android:layout_height="wrap_content">
+
+        </android.support.v4.view.ViewPager>
     </LinearLayout>
         <com.baituoyitong.kun.baituoyitong.mainpackage.view.CustomFAB
             android:visibility="gone"
@@ -78,6 +80,13 @@
             custom:bg_color="@color/light_blue"
             android:tint="@android:color/white"
             />
+        <Button
+           android:layout_alignParentRight="true"
+           android:layout_alignParentBottom="true"
+            android:onClick="quit"
+            android:text="完全退出"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
     </RelativeLayout>
     <!--展开之后的布局-->
     <fragment
@@ -87,5 +96,6 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         />
+
 
 </android.support.v4.widget.DrawerLayout>

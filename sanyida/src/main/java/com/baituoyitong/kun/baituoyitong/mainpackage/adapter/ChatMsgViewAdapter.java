@@ -92,7 +92,8 @@ public class ChatMsgViewAdapter extends BaseAdapter {
 			  viewHolder.tvUserName = (TextView) convertView.findViewById(R.id.tv_username);
 			  viewHolder.tvContent = (TextView) convertView.findViewById(R.id.tv_chatcontent);
 			  viewHolder.isComMsg = isComMsg;
-			  
+
+
 			  convertView.setTag(viewHolder);
 	    }else{
 	        viewHolder = (ViewHolder) convertView.getTag();
@@ -102,8 +103,10 @@ public class ChatMsgViewAdapter extends BaseAdapter {
 	    
 	    viewHolder.tvSendTime.setText(entity.getDate());
 	    viewHolder.tvUserName.setText(entity.getName());
-	    viewHolder.tvContent.setText(entity.getText());
-	    
+        if (!entity.getText().equals("")){
+            viewHolder.tvContent.setText(entity.getText());
+        }
+
 	    return convertView;
     }
     
