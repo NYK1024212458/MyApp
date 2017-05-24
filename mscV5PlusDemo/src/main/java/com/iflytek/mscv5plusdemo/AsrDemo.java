@@ -54,6 +54,7 @@ public class AsrDemo extends Activity implements OnClickListener{
 	
 	private  final String KEY_GRAMMAR_ABNF_ID = "grammar_abnf_id";
 	private  final String GRAMMAR_TYPE_ABNF = "abnf";
+
 	private  final String GRAMMAR_TYPE_BNF = "bnf";
 
 	private String mEngineType = "cloud";
@@ -71,6 +72,8 @@ public class AsrDemo extends Activity implements OnClickListener{
 		// 初始化语法、命令词
 		mLocalLexicon = "张海羊\n刘婧\n王锋\n";
 		mLocalGrammar = FucUtil.readFile(this,"call.bnf", "utf-8");
+
+		//语法构建 获取的是资源目录下面的文件的构建
 		mCloudGrammar = FucUtil.readFile(this,"grammar_sample.abnf","utf-8");
 		
 		// 获取联系人，本地更新词典时使用
@@ -86,11 +89,13 @@ public class AsrDemo extends Activity implements OnClickListener{
 	 */
 	private void initLayout(){
 		findViewById(R.id.isr_recognize).setOnClickListener(this);
-		
+
+		//语法和词典
 		findViewById(R.id.isr_grammar).setOnClickListener(this);
 		findViewById(R.id.isr_lexcion).setOnClickListener(this);
 		
 		findViewById(R.id.isr_stop).setOnClickListener(this);
+		//关闭
 		findViewById(R.id.isr_cancel).setOnClickListener(this);
 
 		//选择云端or本地
@@ -152,7 +157,8 @@ public class AsrDemo extends Activity implements OnClickListener{
 						showTip("语法构建失败,错误码：" + ret);
 					}
 				}
-				// 在线-构建语法文件，生成语法id
+
+				// 在线-构建语法文件，生成语法id        // TODO: 2017/5/24 在线构建
 				else {	
 					((EditText)findViewById(R.id.isr_text)).setText(mCloudGrammar);
 					mContent = new String(mCloudGrammar);
@@ -161,6 +167,7 @@ public class AsrDemo extends Activity implements OnClickListener{
 					// 设置文本编码格式
 					mAsr.setParameter(SpeechConstant.TEXT_ENCODING,"utf-8");
 				    ret = mAsr.buildGrammar(GRAMMAR_TYPE_ABNF, mContent, grammarListener);
+
 					if(ret != ErrorCode.SUCCESS)
 						showTip("语法构建失败,错误码：" + ret);
 				}
@@ -287,6 +294,7 @@ public class AsrDemo extends Activity implements OnClickListener{
 			if (null != result && !TextUtils.isEmpty(result.getResultString())) {
 				Log.d(TAG, "recognizer result：" + result.getResultString());
 				String text = "";
+				//s设置解析的类型
 				if (mResultType.equals("json")) {
 					text = JsonParser.parseGrammarResult(result.getResultString(), mEngineType);
 				} else if (mResultType.equals("xml")) {
@@ -342,7 +350,7 @@ public class AsrDemo extends Activity implements OnClickListener{
 
 	/**
 	 * 参数设置
-	 * @param param
+	 * @param
 	 * @return 
 	 */
 	public boolean setParam(){

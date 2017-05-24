@@ -4,12 +4,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_commit_white_edge_gray_sel.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_selector.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_list_selector.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_back.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_check.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_blue.xml",
@@ -20,12 +16,12 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_devcapture.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_trans_border.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_trans_border.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_back.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_voice_talk.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_voice_talk.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_task_date_bg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_task_date_bg.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_blue.xml",
@@ -36,6 +32,10 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_text_selector.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dev_socket_on_off_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\dev_socket_on_off_sel.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_white.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_white.xml"
     },
@@ -44,8 +44,216 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_round_light.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_tab_bg_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_clours_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\text_clours_selector.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ptzdown_selector.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzdown_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_record.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_trans.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_trans.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_desc_color.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_desc_color.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_green.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_trans_border.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_trans_border.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_changed.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\text_color_changed.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_auto_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_auto_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_radiobutton_backgroud.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_radiobutton_backgroud.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_rb_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_rb_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ptzup_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzup_selector.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_radiobutton_textcolor.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_radiobutton_textcolor.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_control_text_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_control_text_selector.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dev_socket_on_off_sel.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\dev_socket_on_off_sel.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check_fill_red_sel.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_check_fill_red_sel.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_red.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_red.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_control_seekbar_bg.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\video_control_seekbar_bg.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_save.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_save.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_switch_sel.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_switch_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_auto_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_auto_sel.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_auto_sel.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_auto_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_round_usb.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_round_usb.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ptzleft_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzleft_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_voice_talk.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_voice_talk.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_changed.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\text_color_changed.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ptzdown_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzdown_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_round_power.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_round_power.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_control_text_selector.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_control_text_selector.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_desc_color.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_desc_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tip_bottom_right.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\shape_tip_bottom_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tip.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\shape_tip.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_task_time_gray_shape.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_task_time_gray_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user_stat_login.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_user_stat_login.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_image.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_control_button_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\video_control_button_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check_fill_red_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_check_fill_red_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_task_time_gray_shape.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_task_time_gray_shape.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_list_selector.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_switch_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_switch_sel.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_settings.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_text_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_text_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_control_seekbar_bg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\video_control_seekbar_bg.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_trans_border.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_trans_border.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_voice_talk.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_voice_talk.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_radiobutton_textcolor.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_radiobutton_textcolor.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_switch_check.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_switch_check.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_round_usb.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_round_usb.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_blue.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_blue.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_settings.xml",
@@ -56,8 +264,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_check.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ptzdown_selector.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzdown_selector.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_timing_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_timing_sel.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tip.xml",
@@ -72,12 +280,32 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_radiobutton_backgroud.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_blue.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_blue.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_control_button_selector.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\video_control_button_selector.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\download_to_phone_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\download_to_phone_selector.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user_stat_logout.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_user_stat_logout.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_round_light.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_round_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_luma.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_luma.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_editor_bg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_editor_bg.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user_stat_login.xml",
@@ -96,32 +324,44 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_trans.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_green.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_green.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_tab_bg.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_red.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_red.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_red.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_tab_bg.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg_sel.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_tab_bg_sel.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_changed.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\text_color_changed.xml"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_red.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_image.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_image.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_record.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_red_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\checkbox_red_sel.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_round_power.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_round_power.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_devcapture.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_devcapture.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_color.xml",
@@ -132,40 +372,40 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_rb_selector.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_green.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_save.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_save.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_task_add.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_task_add.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_radiobutton_textcolor.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_radiobutton_textcolor.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_white.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_white.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dev_socket_on_off_sel.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\dev_socket_on_off_sel.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_task_add.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_task_add.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\download_to_phone_selector.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\download_to_phone_selector.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tip_bottom_left.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\shape_tip_bottom_left.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tip_bottom_left.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\shape_tip_bottom_left.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check_fill_red_sel.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_check_fill_red_sel.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_color_seekbar_bg_red.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_color_seekbar_bg_red.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_red_sel.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\checkbox_red_sel.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_control_seekbar_bg.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\video_control_seekbar_bg.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_editor_bg.xml",
@@ -180,12 +420,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzleft_selector.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_save.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_save.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_switch_sel.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_switch_sel.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_color.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_title_color.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector.xml",
@@ -200,8 +436,8 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_refresh.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_auto_sel.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_auto_sel.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_refresh.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_refresh.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_clours_selector.xml",
@@ -212,27 +448,27 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_switch_check.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_control_text_selector.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_control_text_selector.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ptzright_selector.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzright_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_button_selector_red.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_button_selector_red.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ptzright_selector.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\ptzright_selector.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\common_desc_color.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\common_desc_color.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_auto_selector.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_auto_selector.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_task_time_gray_shape.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_task_time_gray_shape.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user_stat_logout.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\icon_user_stat_logout.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\bulb_image.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\bulb_image.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\socket_commit_white_edge_gray_sel.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\drawable\\socket_commit_white_edge_gray_sel.xml"
     }
 ]

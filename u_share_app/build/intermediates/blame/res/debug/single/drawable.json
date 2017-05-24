@@ -8,20 +8,28 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\longtu.jpg",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\longtu.jpg"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.jpg",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\aa.jpg"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_line.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_more.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_tumblr.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
@@ -32,100 +40,76 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_gmail.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_share_watermark.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_share_watermark.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_back_icon.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_back_icon.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_share_watermark.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_share_watermark.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\huoqu.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\huoqu.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_web.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_clear_shape.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_clear_shape.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_flickr.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\thumb.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sms.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng.jpg",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng.jpg"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\zijian.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\zijian.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_facebook.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copyurl.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sms.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_share_solid_icon.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_share_solid_icon.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_tx.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_dropbox.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_dropbox.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_more.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_more.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_edit_bg.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_pinterest.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_foursquare.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_flickr.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_back_icon.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_laiwang.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_renren.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_icon_1.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\info_icon_1.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_alipay.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_alipay.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_delete.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_pinterest.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_done.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\ic_ab_done.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnbg.xml",
@@ -148,12 +132,324 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fav.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_evernote.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_facebook.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_share_solid_icon.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_share_solid_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_app_icon.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_app_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fbmessage.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_fbmessage.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copy.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_done.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\ic_ab_done.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_gray_transparent_shape.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_gray_transparent_shape.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_tumblr.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\water.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\water.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_back_icon.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sms.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\dadadatu.jpg",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\dadadatu.jpg"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\longlong.jpg",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\longlong.jpg"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\gengxin.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\gengxin.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_line.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_renren.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_view_bg.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\edit_view_bg.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_kakao.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_laiwang.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_yixin_circle.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_app_icon.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_app_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_yixin.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_app.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\ic_ab_app.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_share_send_button_background.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_share_send_button_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_web.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_icon.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.jpg",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\aa.jpg"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_delete.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_alipay.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_alipay.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_menu_default.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_view_bg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\edit_view_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnbg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\btnbg.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\datu.jpg",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\datu.jpg"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\longtu.jpg",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\longtu.jpg"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_clear_shape.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_clear_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_pocket.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_icon.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_icon.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_web.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng.jpg",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng.jpg"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_flickr.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_douban.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng.jpg",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng.jpg"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copyurl.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\longlong.jpg",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\longlong.jpg"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_tx.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_gray_transparent_shape.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_gray_transparent_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_foursquare.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_gmail.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_arrow.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\editbg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\editbg.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_renren.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_delete.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\fenxiang.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\fenxiang.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_done.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\ic_ab_done.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umsocial_defaultwatermark.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umsocial_defaultwatermark.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_app.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\ic_ab_app.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket.png",
@@ -176,16 +472,24 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\gengxin.png"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\dadadatu.jpg",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\dadadatu.jpg"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_share_watermark.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_share_watermark.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umsocial_defaultwatermark.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umsocial_defaultwatermark.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_menu_default.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_foursquare.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\water.png",
@@ -196,12 +500,20 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_twitter.png"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ding.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_ding.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copy.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_copy.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\fenxiang.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\fenxiang.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\longtu.jpg",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\longtu.jpg"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\zijian.png",
@@ -216,40 +528,16 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_evernote.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_gray_transparent_shape.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_gray_transparent_shape.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_tumblr.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_share_send_button_background.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_share_send_button_background.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\com_facebook_close.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\dadadatu.jpg",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\dadadatu.jpg"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\longlong.jpg",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\longlong.jpg"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_view_bg.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\edit_view_bg.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_whatsapp.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_kakao.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_tx.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_arrow.png",
@@ -264,43 +552,59 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_laiwang.png"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_app_icon.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_app_icon.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_instagram.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_linkedin.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\thumb.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_app.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\ic_ab_app.png"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_linkedin.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_dropbox.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_dropbox.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_ynote.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_kakao.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_icon.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\vk_icon.png"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_linkedin.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_douban.png"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\shouquan.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\shouquan.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\huoqu.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\huoqu.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copyurl.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\info_icon_1.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\info_icon_1.png"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
     }
 ]

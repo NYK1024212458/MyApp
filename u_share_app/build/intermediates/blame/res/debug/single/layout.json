@@ -1,39 +1,27 @@
 [
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\com_facebook_login_fragment.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\vk_open_auth_dialog.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\vk_open_auth_dialog.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_auth.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_auth.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\app_shareadapter.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\app_shareadapter.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_share.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_share.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\infodetail.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\infodetail.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\app_styleadapter.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\app_styleadapter.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\vk_open_auth_dialog.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\vk_open_auth_dialog.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\app_authadapter.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\app_authadapter.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_menu.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_menu.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\app_shareadapter.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\app_shareadapter.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
@@ -44,12 +32,108 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_activity_kakao_webview.xml"
     },
     {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_share.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\app_styleadapter.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\app_styleadapter.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_check.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\vk_captcha_dialog.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\vk_captcha_dialog.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_share.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\app_authadapter.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\app_authadapter.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_check.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_check.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_auth.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_auth.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_activity_kakao_webview.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_activity_kakao_webview.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_share.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_share.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\infodetail.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\infodetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_auth.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_auth.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\infodetail.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\infodetail.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\app_styleadapter.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\app_styleadapter.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_menu.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_menu.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\vk_captcha_dialog.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\vk_captcha_dialog.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\com_facebook_activity_layout.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_menu.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\share_detail.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\share_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\vk_share_dialog.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\vk_share_dialog.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
@@ -60,6 +144,10 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\vk_share_dialog.xml"
     },
     {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\share_detail.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\share_detail.xml"
     },
@@ -68,15 +156,7 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_share.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_share.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_check.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_check.xml"
-    },
-    {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_share.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout\\umeng_share.xml"
     }
 ]
