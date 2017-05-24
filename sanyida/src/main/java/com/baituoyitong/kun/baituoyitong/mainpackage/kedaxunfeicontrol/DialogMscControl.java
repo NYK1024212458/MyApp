@@ -493,6 +493,7 @@ public class DialogMscControl {
                         //  此时表示的就是没有说话 我们再次调用
                         iatDialog.dismiss();
                         startDialogMsc();
+
                     }
 
                 }
