@@ -176,6 +176,22 @@ public class LocalSoundListActivity extends AppCompatActivity implements View.On
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case android.R.id.home:
+                if (mediaPlayer != null) {
+                    if (mediaPlayer.isPlaying()) {
+                        //
+                        btnPlayPause1.setImageResource(R.mipmap.pause);
+
+                    } else {
+                        //替换图标
+                        btnPlayPause1.setImageResource(R.mipmap.play);
+                       mediaPlayer.start();
+
+                    }
+                    puseMusic();
+                } else {
+                    ToastUtils.showToast(this, "请先开始播放音乐");
+                }
+
                 finish();
                 break;
         }
@@ -231,6 +247,8 @@ public class LocalSoundListActivity extends AppCompatActivity implements View.On
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        mediaPlayer.reset();
+        mediaPlayer.release();
 
     }
 
