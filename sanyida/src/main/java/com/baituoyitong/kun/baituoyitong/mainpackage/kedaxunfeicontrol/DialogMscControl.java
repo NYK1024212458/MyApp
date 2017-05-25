@@ -2,6 +2,7 @@ package com.baituoyitong.kun.baituoyitong.mainpackage.kedaxunfeicontrol;
 
 import android.Manifest;
 import android.app.Activity;
+import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -14,6 +15,7 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AlertDialog;
 import android.telephony.TelephonyManager;
 import android.util.Log;
+import android.view.View;
 
 
 import com.baituoyitong.kun.baituoyitong.R;
@@ -21,16 +23,20 @@ import com.baituoyitong.kun.baituoyitong.R;
 import com.baituoyitong.kun.baituoyitong.mainpackage.activity.LocalSoundListActivity;
 import com.baituoyitong.kun.baituoyitong.mainpackage.bean.WeatherRwsponseInfo;
 import com.baituoyitong.kun.baituoyitong.mainpackage.eventbus.MessageEvent;
+import com.baituoyitong.kun.baituoyitong.mainpackage.utils.FucUtil;
 import com.baituoyitong.kun.baituoyitong.mainpackage.utils.ToastUtils;
 import com.google.gson.Gson;
+import com.iflytek.cloud.GrammarListener;
 import com.iflytek.cloud.RecognizerResult;
 import com.iflytek.cloud.SpeechConstant;
 import com.iflytek.cloud.SpeechError;
+import com.iflytek.cloud.SpeechRecognizer;
 import com.iflytek.cloud.SpeechSynthesizer;
 import com.iflytek.cloud.ui.RecognizerDialog;
 import com.iflytek.cloud.ui.RecognizerDialogListener;
 
 import org.greenrobot.eventbus.EventBus;
+import org.greenrobot.eventbus.Subscribe;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -62,6 +68,8 @@ public class DialogMscControl {
     private SpeechSynthesizer mTts;
     private MediaPlayer mediaPlayer;
     private SharedPreferences mSharedPreferences;
+    private String grammarContent;
+
 
     public DialogMscControl(Context context) {
         this.mContext = context;
@@ -72,11 +80,29 @@ public class DialogMscControl {
         ttsControl = new TtsControl(mContext);
         mSharedPreferences = context.getSharedPreferences(UnderstanderSettings.PREFER_NAME, Activity.MODE_PRIVATE);
 
+       /* //  进行构建语法
+        SpeechRecognizer speechRecognizer = SpeechRecognizer.createRecognizer(mContext, null);
+        grammarContent = FucUtil.readFile(mContext, "grammar_sample.abnf", "utf-8");
+        // 设置引擎类型
+        speechRecognizer.setParameter(SpeechConstant.ENGINE_TYPE, SpeechConstant.TYPE_CLOUD);
+
+        *//* 其中 "abnf" 指定语法类型为 ABNF,  grammarContent 为语法内容，grammarListener 为构建结果监听器*//*
+        speechRecognizer.buildGrammar("abnf", grammarContent, new GrammarListener() {
+            @Override
+            public void onBuildFinish(String s, SpeechError speechError) {
+
+                Log.d(TAG, "onBuildFinish: "+s);
+            }
+        });
+*/
+
     }
-    //设置一个延迟的操作
 
 
     public void startDialogMsc() {
+        //  判断是不是在开始
+
+
         //设置启动的时间
 
         try {
@@ -92,7 +118,9 @@ public class DialogMscControl {
             //设置为true
             isFristCommunicate = false;
 
-            String fristString = "我是三易达易休,很高兴为你服务!";
+            String fristString = "大家好,我是三易达易休!在这个开心的日子里，华夏幼星幼儿园向辛勤哺育小朋友们健康成长的父母，" +
+                    "以及默默奉献的园长和教师们致以衷心的感谢!我园内设外教英语，机器人，跆拳道，舞蹈，等许多艺术课程，" +
+                    "在即将到来的六一儿童节前向所有小朋友们说一句，六一儿童节快乐！下面让我们用热烈的掌声欢迎三易达机器人献上表演，歌声与微笑！";
             //是第一次回话
 
             MessageEvent messageEvent = new MessageEvent();
@@ -137,6 +165,10 @@ public class DialogMscControl {
                     Gson gson = new Gson();
                     WeatherRwsponseInfo weatherRwsponseInfo = gson.fromJson(resultString, WeatherRwsponseInfo.class);
                     String s = weatherRwsponseInfo.text;
+
+                    //  此处实现命令词的切换
+
+
                     Log.d(TAG, "onResult: s" + s);
 
                     //eventbus 实现数据的传递
@@ -271,13 +303,13 @@ public class DialogMscControl {
                                         messageEvenmusic.responseSpeakTest = "开始播放音乐,请稍等";
                                         EventBus.getDefault().post(messageEvenmusic);
 
-                                       // playMusic(resultBean.downloadUrl);
+                                        // playMusic(resultBean.downloadUrl);
 
                                         //ceshi
                                         Intent intent = new Intent(mContext, LocalSoundListActivity.class);
-                                        intent.putExtra("name",resultBean.name);
-                                        intent.putExtra("singer",resultBean.singer);
-                                        intent.putExtra("url",resultBean.downloadUrl);
+                                        intent.putExtra("name", resultBean.name);
+                                        intent.putExtra("singer", resultBean.singer);
+                                        intent.putExtra("url", resultBean.downloadUrl);
                                         mContext.startActivity(intent);
 
 
@@ -427,7 +459,7 @@ public class DialogMscControl {
 
                             //无效请求
                             ttsControl.textToLanguage("");
-                            Log.d(TAG, "onResult: rc=1"+"无效请求,请重新输入");
+                            Log.d(TAG, "onResult: rc=1" + "无效请求,请重新输入");
                             break;
                         case 2:
 
@@ -439,7 +471,7 @@ public class DialogMscControl {
 
                             //服务器内部错误
                             ttsControl.textToLanguage("服务器内部错误,请重新输入");
-                            Log.d(TAG, "onResult: rc=2"+"");
+                            Log.d(TAG, "onResult: rc=2" + "");
 
                             break;
                         case 3:
@@ -453,7 +485,7 @@ public class DialogMscControl {
                             //业务操作失败
                             ttsControl.textToLanguage("");
 
-                            Log.d(TAG, "onResult: rc=3"+"业务操作失败,请重新输入");
+                            Log.d(TAG, "onResult: rc=3" + "业务操作失败,请重新输入");
                             break;
                         case 4:
 
@@ -466,7 +498,7 @@ public class DialogMscControl {
 
                             //你的输入没有人可以理解,请重新输入
                             ttsControl.textToLanguage("");
-                            Log.d(TAG, "onResult: rc=4"+"服务器错误,请重新输入");
+                            Log.d(TAG, "onResult: rc=4" + "服务器错误,请重新输入");
                             break;
                     }
 
@@ -479,7 +511,7 @@ public class DialogMscControl {
                     String errorDescription = speechError.getErrorDescription();
 
                     Log.d(TAG, "onError: 回话发生错误的错误编号和错误的描述" + errorCode + "错误,描述" + errorDescription);
-                    if (speechError.getErrorCode()==10118){
+                    if (speechError.getErrorCode() == 10118) {
                         //  此时表示的就是没有说话 我们再次调用
                         iatDialog.dismiss();
                         startDialogMsc();
@@ -488,7 +520,7 @@ public class DialogMscControl {
 
                 }
             };
-            iatDialog. setCanceledOnTouchOutside(true);
+            iatDialog.setCanceledOnTouchOutside(true);
             iatDialog.setListener(recognizerDialogListener);
             //设置不可以消失
             iatDialog.setCancelable(true);
@@ -553,39 +585,52 @@ public class DialogMscControl {
 
     public void stopTts() {
         //加一个判断是不是空的
-
-        if (iatDialog != null) {
-            mTts = ttsControl.mTtss;
+        mTts = ttsControl.mTtss;
+        if (mTts != null) {
             if (mTts.isSpeaking()) {
-                if (mTts != null) {
-                    mTts.stopSpeaking();
-                }
+                mTts.stopSpeaking();
             }
-        } else {
-            ToastUtils.showToast(mContext, "请先开始语音聊天功能");
         }
 
 
     }
 
 
+    public void closeAll() {
+        if (ttsControl.mTtss != null) {
+            if (ttsControl.mTtss.isSpeaking()) {
+                ttsControl.mTtss.stopSpeaking();
+                ttsControl.mTtss.destroy();
+            }
+        }
+        if (null != iatDialog) {
+            if (iatDialog.isShowing()) {
+                // 退出时释放连接
+                iatDialog.cancel();
+                iatDialog.destroy();
+            }
+
+
+        }
+    }
+
     //
-    private TtsIsFinishedListener mListener;
+    private onQuitAll mListener;
 
 
     //设置一个回调的接口来 监听是不是最后一次完成了!
-    public void setCountDownTimerListener(TtsIsFinishedListener listener) {
+    public void setOnQitAll(onQuitAll listener) {
         this.mListener = listener;
+
+
     }
 
-    public interface TtsIsFinishedListener {
+    public interface onQuitAll {
 
-        void onStartTts();
+        void onQuitAll();
 
-        void onFinishedTts();
+
     }
-
-
 
 
 

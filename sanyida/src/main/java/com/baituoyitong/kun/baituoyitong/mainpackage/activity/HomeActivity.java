@@ -11,6 +11,7 @@ import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Message;
 import android.provider.Settings;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
@@ -34,18 +35,19 @@ import com.baituoyitong.kun.baituoyitong.mainpackage.bean.DayNight;
 import com.baituoyitong.kun.baituoyitong.mainpackage.eventbus.MessageEvent;
 import com.baituoyitong.kun.baituoyitong.mainpackage.fragment.ChatFragment;
 import com.baituoyitong.kun.baituoyitong.mainpackage.fragment.ShowChatFragment;
+import com.baituoyitong.kun.baituoyitong.mainpackage.kedaxunfeicontrol.DialogMscControl;
 import com.baituoyitong.kun.baituoyitong.mainpackage.utils.CommonSPHelper;
 import com.baituoyitong.kun.baituoyitong.mainpackage.utils.DialogFragmentHelper;
 import com.baituoyitong.kun.baituoyitong.mainpackage.utils.ToastUtils;
 import com.baituoyitong.kun.baituoyitong.mainpackage.view.CustomFAB;
 import com.iflytek.cloud.SpeechConstant;
 import com.iflytek.cloud.SpeechUtility;
-
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
-
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Handler;
+
 
 
 /**
@@ -71,6 +73,8 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     private CustomFAB fab_main_customfab;
     private ChatFragment chatFragment;
     private ShowChatFragment showChatFragment;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -390,6 +394,8 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     protected void onDestroy() {
         super.onDestroy();
         EventBus.getDefault().unregister(this);
+
+
     }
 
 
@@ -411,8 +417,13 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void quit (View view){
+        //停止 语义理解和tts播放  使用广播来进行
+        chatFragment.dialogMscControl.stopTts();
+        chatFragment.dialogMscControl.closeAll();
+
         ExitApp();
 
     }
+
 
 }

@@ -1,55 +1,55 @@
 [
     {
-        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_setup_encode.xml",
-        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\activity_device_setup_encode.xml"
-    },
-    {
         "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_device_camera_pic.xml",
         "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\item_device_camera_pic.xml"
+    },
+    {
+        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_setup_encode.xml",
+        "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\activity_device_setup_encode.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_scan.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\activity_qr_scan.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_system_function_list_item.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_device_system_function_list_item.xml"
-    },
-    {
         "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\button_user_stat.xml",
         "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\button_user_stat.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_picture_grid_item.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_device_picture_grid_item.xml"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_system_function_list_item.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_device_system_function_list_item.xml"
     },
     {
         "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_list_item.xml",
         "source": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_device_list_item.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_socket_capture_img.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_device_socket_capture_img.xml"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_picture_grid_item.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_device_picture_grid_item.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_saved_users_list_item.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\dialog_saved_users_list_item.xml"
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_socket_capture_img.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_device_socket_capture_img.xml"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_socket.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\activity_device_socket.xml"
     },
     {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_saved_users_list_item.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\dialog_saved_users_list_item.xml"
+    },
+    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_setup_alarm_center.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\activity_device_setup_alarm_center.xml"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_top_navigate_theme.xml",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_top_navigate_theme.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_device_camera_record.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\item_device_camera_record.xml"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_top_navigate_theme.xml",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\funSDKDemo\\src\\main\\res\\layout\\layout_top_navigate_theme.xml"
     },
     {
         "merged": "D:\\AndroidDevelop\\AS\\MyApp\\funSDKDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_login.xml",

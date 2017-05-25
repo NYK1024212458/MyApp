@@ -32,6 +32,9 @@ public class TtsControl {
 
     //文本转化为语音的控制类
     public void textToLanguage(String strtext) {
+
+
+
         if (mTtss ==null){
             //1.创建 SpeechSynthesizer 对象, 第二个参数：本地合成时传 InitListener
             mTtss = SpeechSynthesizer.createSynthesizer(mContext, null);
@@ -99,4 +102,7 @@ public class TtsControl {
 
 
     }
+
+
+
 }

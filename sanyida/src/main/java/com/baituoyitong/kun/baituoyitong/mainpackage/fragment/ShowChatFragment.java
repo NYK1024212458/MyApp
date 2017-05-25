@@ -1,5 +1,6 @@
 package com.baituoyitong.kun.baituoyitong.mainpackage.fragment;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -35,7 +36,7 @@ import java.util.List;
  * <p>
  * Created by ${kun} on 2017/4/18.
  */
-
+@SuppressLint("ValidFragment")
 public class ShowChatFragment  extends Fragment implements View.OnClickListener {
     private Context mContext;
     public static final String TAG = ShowChatFragment.class.getSimpleName();

@@ -46,6 +46,7 @@ public class AsrDemo extends Activity implements OnClickListener{
 	private String mLocalLexicon = null;
 	// 云端语法文件
 	private String mCloudGrammar = null;
+
 	// 本地语法构建路径	
 	private String grmPath = Environment.getExternalStorageDirectory()
 								.getAbsolutePath() + "/msc/test";

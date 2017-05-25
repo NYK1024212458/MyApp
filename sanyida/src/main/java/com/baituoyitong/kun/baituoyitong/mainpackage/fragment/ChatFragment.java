@@ -1,6 +1,7 @@
 package com.baituoyitong.kun.baituoyitong.mainpackage.fragment;
 
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -26,7 +27,7 @@ import java.util.HashMap;
  * <p>
  * Created by ${kun} on 2017/4/18.
  */
-
+@SuppressLint("ValidFragment")
 public class ChatFragment extends LazyFragment implements View.OnClickListener , BaseSliderView.OnSliderClickListener, ViewPagerEx.OnPageChangeListener{
     private Context mContext;
     private static final String TAG =ChatFragment.class.getSimpleName() ;
@@ -40,6 +41,7 @@ public class ChatFragment extends LazyFragment implements View.OnClickListener ,
     public ChatFragment(Context context) {
         mContext=context;
     }
+
 
     @Nullable
     @Override
@@ -112,7 +114,7 @@ public class ChatFragment extends LazyFragment implements View.OnClickListener ,
             break;
             case R.id.btn_stop_chant:
 
-                ToastUtils.showToast(getContext(),"是不是错误的"+btn_stop_chant.toString());
+              //  ToastUtils.showToast(getContext(),"是不是错误的"+btn_stop_chant.toString());
                 dialogMscControl.stopTts();
                 break;
         }
@@ -159,5 +161,11 @@ public class ChatFragment extends LazyFragment implements View.OnClickListener ,
         //  停止轮播
         mDemoSlider.stopAutoCycle();
         super.onStop();
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+
     }
 }
