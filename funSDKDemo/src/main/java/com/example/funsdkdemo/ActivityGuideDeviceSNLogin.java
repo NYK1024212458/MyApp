@@ -207,8 +207,9 @@ public class ActivityGuideDeviceSNLogin extends ActivityDemo
 
 		showWaitDialog(R.string.device_stauts_unknown);
 
-		FunSupport.getInstance().requestDeviceStatus(mCurrDevType, devSN);
-	}
+        //  获取设备是不是在线  传递的参数就是 设备的类型和序列号
+        FunSupport.getInstance().requestDeviceStatus(mCurrDevType, devSN);
+    }
 
 	// 设备登录
 	private void requestDeviceIpStatus() {

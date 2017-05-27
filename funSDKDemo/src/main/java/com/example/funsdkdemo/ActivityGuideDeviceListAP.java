@@ -64,6 +64,7 @@ public class ActivityGuideDeviceListAP extends ActivityDemo implements OnClickLi
 		
 		mListView = (ExpandableListView)findViewById(R.id.listViewDevice);
 		mAdapter = new ListAdapterFunDevice(this, mAPDeviceList);
+
 		// AP设备不允许删除和重命名,需要连接AP
 		mAdapter.setCanRemoved(false);
 		mAdapter.setCanRenamed(false);

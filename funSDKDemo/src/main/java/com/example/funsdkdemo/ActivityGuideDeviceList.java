@@ -67,9 +67,11 @@ public class ActivityGuideDeviceList extends ActivityDemo implements OnClickList
 		View layoutRefresh = setNavagateRightButton(R.layout.imagebutton_refresh);
 		mBtnRefresh = (ImageButton)layoutRefresh.findViewById(R.id.btnRefresh);
 		mBtnRefresh.setOnClickListener(this);
-		
+
+
 		mListView = (ExpandableListView)findViewById(R.id.listViewDevice);
 		mAdapter = new ListAdapterFunDevice(this, mDeviceList);
+
 		// 不需要连接AP
 		mAdapter.setNeedConnectAP(false);
 		mAdapter.setOnFunDeviceItemClickListener(this);

@@ -1331,6 +1331,7 @@ public class FunSupport implements IFunSDKResult {
 
 		funDevice.devStatus = FunDevStatus.STATUS_UNKNOWN;
 
+        //  关键到的代码  到最后会去调用so库
 		int result = FunSDK.SysGetDevState(getHandler(), 
 				funDevice.getDevSn(), funDevice.getId());
 		return (result == 0);

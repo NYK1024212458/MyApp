@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout-sw550dp-large-v13\\umeng_socialize_oauth_dialog.xml",
-        "source": "D:\\AndroidDevelop\\AS\\MyApp\\u_share_app\\src\\main\\res\\layout-sw550dp-large\\umeng_socialize_oauth_dialog.xml"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\layout-sw550dp-large-v13\\umeng_socialize_oauth_dialog.xml",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\layout-sw550dp-large\\umeng_socialize_oauth_dialog.xml"
     }
