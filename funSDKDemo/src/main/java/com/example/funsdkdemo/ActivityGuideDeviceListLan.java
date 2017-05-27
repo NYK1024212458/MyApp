@@ -65,10 +65,14 @@ public class ActivityGuideDeviceListLan extends ActivityDemo implements OnClickL
 		
 		mListView = (ExpandableListView)findViewById(R.id.listViewDevice);
 		mAdapter = new ListAdapterFunDevice(this, mLanDeviceList);
+
+
 		// 局域网内设备不允许删除和重命名,不需要再连接AP
 		mAdapter.setCanRemoved(false);
 		mAdapter.setCanRenamed(false);
 		mAdapter.setNeedConnectAP(false);
+
+        //  点击联机的监听
 		mAdapter.setOnFunDeviceItemClickListener(this);
 		mListView.setAdapter(mAdapter);
 		
@@ -214,6 +218,8 @@ public class ActivityGuideDeviceListLan extends ActivityDemo implements OnClickL
 
 	@Override
 	public void onFunDeviceControlClicked(FunDevice funDevice) {
+
+
 		// 打开设备控制
 		DeviceActivitys.startDeviceActivity(this, funDevice);
 	}
