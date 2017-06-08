@@ -3,6 +3,8 @@ package com.baituoyitong.kun.baituoyitong.mainpackage.fragment;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.text.TextUtils;
@@ -38,6 +40,19 @@ import java.util.List;
  */
 @SuppressLint("ValidFragment")
 public class ShowChatFragment  extends Fragment implements View.OnClickListener {
+    private static final int RESTARTDIALOGARS1 = 590;
+    //使用handle
+    private Handler handler = new Handler(){
+        @Override
+        public void handleMessage(Message msg) {
+
+            if (msg.what==RESTARTDIALOGARS1){
+                dialogMscControl.startDialogMsc();
+            }
+        }
+    };
+
+
     private Context mContext;
     public static final String TAG = ShowChatFragment.class.getSimpleName();
     private ListView lv_show_message;
@@ -160,7 +175,11 @@ public class ShowChatFragment  extends Fragment implements View.OnClickListener 
 
                 //再次调用
                 if (isTtsFinished) {
-                    dialogMscControl.startDialogMsc();
+                    Message message = new Message();
+                    message.what=RESTARTDIALOGARS1;
+
+                    handler.sendMessageDelayed(message,2000);
+
                 }
                 break;
 

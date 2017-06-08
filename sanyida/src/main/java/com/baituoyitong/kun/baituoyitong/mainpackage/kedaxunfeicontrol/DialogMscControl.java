@@ -102,25 +102,15 @@ public class DialogMscControl {
     public void startDialogMsc() {
         //  判断是不是在开始
 
-
-        //设置启动的时间
-
-        try {
-            Thread.sleep(3000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-
-
-        //  第一次回话展示的文字
+        //  第一次回话展示的文字  /*在这个开心的日子里，华夏幼星幼儿园向辛勤哺育小朋友们健康成长的父母，" +
+       /* "以及默默奉献的园长和教师们致以衷心的感谢!我园内设外教英语，机器人，跆拳道，舞蹈，等许多艺术课程，" +
+                "在即将到来的六一儿童节前向所有小朋友们说一句，六一儿童节快乐！下面让我们用热烈的掌声欢迎三易达机器人献上表演，可爱颂！*/
 
         if (isFristCommunicate) {
             //设置为true
             isFristCommunicate = false;
 
-            String fristString = "大家好,我是三易达易休!在这个开心的日子里，华夏幼星幼儿园向辛勤哺育小朋友们健康成长的父母，" +
-                    "以及默默奉献的园长和教师们致以衷心的感谢!我园内设外教英语，机器人，跆拳道，舞蹈，等许多艺术课程，" +
-                    "在即将到来的六一儿童节前向所有小朋友们说一句，六一儿童节快乐！下面让我们用热烈的掌声欢迎三易达机器人献上表演，可爱颂！";
+            String fristString = "大家好,我是三易达易休!";
             //是第一次回话
 
             MessageEvent messageEvent = new MessageEvent();
@@ -128,7 +118,6 @@ public class DialogMscControl {
             messageEvent.eventBusCode = 1;
             EventBus.getDefault().post(messageEvent);
             ttsControl.textToLanguage(fristString);
-
 
         } else {
 
@@ -514,6 +503,7 @@ public class DialogMscControl {
                     if (speechError.getErrorCode() == 10118) {
                         //  此时表示的就是没有说话 我们再次调用
                         iatDialog.dismiss();
+
                         startDialogMsc();
 
                     }
@@ -523,7 +513,7 @@ public class DialogMscControl {
             iatDialog.setCanceledOnTouchOutside(true);
             iatDialog.setListener(recognizerDialogListener);
             //设置不可以消失
-            iatDialog.setCancelable(true);
+            iatDialog.setCancelable(false);
             iatDialog.setOnCancelListener(new DialogInterface.OnCancelListener() {
                 @Override
                 public void onCancel(DialogInterface dialog) {
@@ -632,6 +622,11 @@ public class DialogMscControl {
 
     }
 
-
+public RecognizerDialog getIatDialog(){
+    if (null!=iatDialog){
+      return  iatDialog;
+    }
+    return  null;
+}
 
 }

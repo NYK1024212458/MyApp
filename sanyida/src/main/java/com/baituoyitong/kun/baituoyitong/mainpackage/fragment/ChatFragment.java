@@ -168,4 +168,5 @@ public class ChatFragment extends LazyFragment implements View.OnClickListener ,
         super.onDestroy();
 
     }
+
 }

@@ -11,6 +11,7 @@ import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Handler;
 import android.os.Message;
 import android.provider.Settings;
 import android.support.v4.app.Fragment;
@@ -46,7 +47,6 @@ import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Handler;
 
 
 
@@ -57,6 +57,21 @@ import java.util.logging.Handler;
  */
 
 public class HomeActivity extends AppCompatActivity implements View.OnClickListener {
+    private static final int RESTARTDIALOGARS = 589;
+
+    //使用handle
+    private Handler handler = new Handler(){
+        @Override
+        public void handleMessage(Message msg) {
+
+            if (msg.what==RESTARTDIALOGARS){
+                chatFragment.dialogMscControl.startDialogMsc();
+            }
+        }
+    };
+
+
+
     public static final String TAG = HomeActivity.class.getSimpleName();
     private DrawerLayout my_drawlayout;
     private Context mContext;
@@ -376,12 +391,11 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     protected void onRestart() {
-        super.onRestart();
-        //  开始再次调用一下子
-        if (chatFragment.dialogMscControl != null) {
-            chatFragment.dialogMscControl.startDialogMsc();
-        }
+        Message message = new Message();
+        message.what=RESTARTDIALOGARS;
 
+        handler.sendMessageDelayed(message,2000);
+        super.onRestart();
     }
 
     @Override
@@ -392,6 +406,8 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     protected void onDestroy() {
+        handler.removeCallbacksAndMessages(null);
+        handler=null;
         super.onDestroy();
         EventBus.getDefault().unregister(this);
 
@@ -401,6 +417,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onBackPressed() {
+        chatFragment.dialogMscControl.getIatDialog().dismiss();
     }
 
     private long exitTime = 0;
@@ -420,6 +437,9 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         //停止 语义理解和tts播放  使用广播来进行
         chatFragment.dialogMscControl.stopTts();
         chatFragment.dialogMscControl.closeAll();
+        chatFragment.dialogMscControl.getIatDialog().destroy();
+
+
 
         ExitApp();
 
