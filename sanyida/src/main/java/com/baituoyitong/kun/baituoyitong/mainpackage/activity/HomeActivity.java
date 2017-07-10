@@ -417,7 +417,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onBackPressed() {
-        chatFragment.dialogMscControl.getIatDialog().dismiss();
+
     }
 
     private long exitTime = 0;

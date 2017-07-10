@@ -1,3 +1,2 @@
 include ':u_share_app', ':sanyida', ':communicatedemo'
-include ':funSDKDemo'
 include ':mscV5PlusDemo'
