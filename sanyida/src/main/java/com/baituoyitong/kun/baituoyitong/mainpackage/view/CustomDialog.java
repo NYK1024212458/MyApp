@@ -1,14 +1,5 @@
 package com.baituoyitong.kun.baituoyitong.mainpackage.view;
 
-/*
- *  项目名：  SmartButler 
- *  包名：    com.imooc.smartbutler.view
- *  文件名:   CustomDialog
- *  创建者:   LGL
- *  创建时间:  2016/11/5 22:26
- *  描述：    自定义Dialog
- */
-
 import android.app.Dialog;
 import android.content.Context;
 import android.view.Gravity;

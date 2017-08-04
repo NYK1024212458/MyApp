@@ -418,6 +418,13 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onBackPressed() {
 
+        if(chatFragment.dialogMscControl!=null){
+            chatFragment.dialogMscControl.getIatDialog().dismiss();
+            chatFragment.dialogMscControl.stopTts();
+            chatFragment.dialogMscControl.closeAll();
+            chatFragment.dialogMscControl.getIatDialog().destroy();
+        }
+        ExitApp();
     }
 
     private long exitTime = 0;
@@ -435,12 +442,13 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
     public void quit (View view){
         //停止 语义理解和tts播放  使用广播来进行
-        chatFragment.dialogMscControl.stopTts();
-        chatFragment.dialogMscControl.closeAll();
-        chatFragment.dialogMscControl.getIatDialog().destroy();
 
 
-
+        if(chatFragment.dialogMscControl!=null){
+            chatFragment.dialogMscControl.stopTts();
+            chatFragment.dialogMscControl.closeAll();
+            chatFragment.dialogMscControl.getIatDialog().destroy();
+        }
         ExitApp();
 
     }
