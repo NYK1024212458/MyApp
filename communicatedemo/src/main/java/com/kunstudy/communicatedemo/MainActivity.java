@@ -1,5 +1,6 @@
 package com.kunstudy.communicatedemo;
 
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -184,5 +185,10 @@ public class MainActivity extends AppCompatActivity {
                 mToast.show();
             }
         });
+    }
+
+    public void enternews(View view){
+        startActivity(new Intent(MainActivity.this,MainActivity1.class));
+
     }
 }

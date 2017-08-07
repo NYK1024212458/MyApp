@@ -420,7 +420,6 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
         if(chatFragment.dialogMscControl!=null){
             chatFragment.dialogMscControl.getIatDialog().dismiss();
-            chatFragment.dialogMscControl.stopTts();
             chatFragment.dialogMscControl.closeAll();
             chatFragment.dialogMscControl.getIatDialog().destroy();
         }
@@ -447,7 +446,9 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         if(chatFragment.dialogMscControl!=null){
             chatFragment.dialogMscControl.stopTts();
             chatFragment.dialogMscControl.closeAll();
-            chatFragment.dialogMscControl.getIatDialog().destroy();
+            chatFragment.dialogMscControl=null;
+            chatFragment=null;
+
         }
         ExitApp();
 

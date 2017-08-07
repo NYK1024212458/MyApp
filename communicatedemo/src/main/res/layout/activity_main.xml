@@ -21,5 +21,11 @@
         android:layout_height="wrap_content"
         android:onClick="awakeControl"
         android:text="唤醒词测试"/>
+    <Button
+        android:onClick="enternews"
+        android:text="进入新的页面"
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>

@@ -142,7 +142,7 @@ public class DialogMscControl {
             iatDialog.setParameter(SpeechConstant.VAD_EOS, "1000");
 
             //3.设置回调接口
-            RecognizerDialogListener recognizerDialogListener = new RecognizerDialogListener() {
+            RecognizerDialogListener recognizerDialogListener =  new RecognizerDialogListener() {
                 @Override
                 public void onResult(RecognizerResult recognizerResult, boolean isLast) {
                     // parseToText(recognizerResult, isLast);
@@ -500,13 +500,13 @@ public class DialogMscControl {
                     String errorDescription = speechError.getErrorDescription();
 
                     Log.d(TAG, "onError: 回话发生错误的错误编号和错误的描述" + errorCode + "错误,描述" + errorDescription);
-                    if (speechError.getErrorCode() == 10118) {
+                   /* if (speechError != null) {
                         //  此时表示的就是没有说话 我们再次调用
                         iatDialog.dismiss();
 
                         startDialogMsc();
 
-                    }
+                    }*/
 
                 }
             };
@@ -518,7 +518,7 @@ public class DialogMscControl {
                 @Override
                 public void onCancel(DialogInterface dialog) {
                     //  设置关闭
-                    startDialogMsc();
+                   // startDialogMsc();
                 }
             });
             //4.开始听写
