@@ -32,12 +32,12 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_gmail.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_share_watermark.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_share_watermark.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
@@ -60,16 +60,16 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_flickr.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sms.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\thumb.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng.jpg",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng.jpg"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\src\\main\\res\\drawable\\umeng_socialize_sms.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\u_share_app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",

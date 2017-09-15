@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApp.iml" filepath="$PROJECT_DIR$/MyApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bleceshidemo/bleceshidemo.iml" filepath="$PROJECT_DIR$/bleceshidemo/bleceshidemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceshi/ceshi.iml" filepath="$PROJECT_DIR$/ceshi/ceshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/communicatedemo/communicatedemo.iml" filepath="$PROJECT_DIR$/communicatedemo/communicatedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcezhi/mcezhi.iml" filepath="$PROJECT_DIR$/mcezhi/mcezhi.iml" />
       <module fileurl="file://$PROJECT_DIR$/mscV5PlusDemo/mscV5PlusDemo.iml" filepath="$PROJECT_DIR$/mscV5PlusDemo/mscV5PlusDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sanyida/sanyida.iml" filepath="$PROJECT_DIR$/sanyida/sanyida.iml" />
       <module fileurl="file://$PROJECT_DIR$/u_share_app/u_share_app.iml" filepath="$PROJECT_DIR$/u_share_app/u_share_app.iml" />

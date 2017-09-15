@@ -65,7 +65,7 @@ public class DialogMscControl {
     private List<String> clientSpeakerList;
     private List<WeatherRwsponseInfo> allMessageBody;
     private TtsControl ttsControl;
-    private SpeechSynthesizer mTts;
+    public SpeechSynthesizer mTts;
     private MediaPlayer mediaPlayer;
     private SharedPreferences mSharedPreferences;
     private String grammarContent;

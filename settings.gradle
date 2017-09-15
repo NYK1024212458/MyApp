@@ -1,2 +1,2 @@
-include ':u_share_app', ':sanyida', ':communicatedemo'
+include ':u_share_app', ':sanyida', ':communicatedemo', ':bleceshidemo', ':ceshi', ':mcezhi', ':app'
 include ':mscV5PlusDemo'
