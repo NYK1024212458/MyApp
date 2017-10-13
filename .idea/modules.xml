@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/bleceshidemo/bleceshidemo.iml" filepath="$PROJECT_DIR$/bleceshidemo/bleceshidemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ceshi/ceshi.iml" filepath="$PROJECT_DIR$/ceshi/ceshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/communicatedemo/communicatedemo.iml" filepath="$PROJECT_DIR$/communicatedemo/communicatedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/mcezhi/mcezhi.iml" filepath="$PROJECT_DIR$/mcezhi/mcezhi.iml" />
       <module fileurl="file://$PROJECT_DIR$/mscV5PlusDemo/mscV5PlusDemo.iml" filepath="$PROJECT_DIR$/mscV5PlusDemo/mscV5PlusDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sanyida/sanyida.iml" filepath="$PROJECT_DIR$/sanyida/sanyida.iml" />

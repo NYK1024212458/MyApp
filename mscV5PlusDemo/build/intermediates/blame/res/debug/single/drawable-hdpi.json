@@ -16,12 +16,12 @@
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\name_right.png"
     },
     {
-        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\editbox.png",
-        "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\editbox.png"
-    },
-    {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_right_p.png",
         "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\btn_right_p.png"
+    },
+    {
+        "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\editbox.png",
+        "source": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\src\\main\\res\\drawable-hdpi\\editbox.png"
     },
     {
         "merged": "D:\\develop\\AndroidDevelop\\MyApp\\mscV5PlusDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cancel.png",

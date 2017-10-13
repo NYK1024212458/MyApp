@@ -165,7 +165,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void initChenjinshi() {
-        // TODO: 2017/4/17   沉浸式的实现
+
 
     }
 
