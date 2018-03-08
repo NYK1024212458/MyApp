@@ -1,2 +1,1 @@
-include ':u_share_app', ':sanyida', ':communicatedemo', ':bleceshidemo', ':ceshi', ':mcezhi', ':app', ':example', ':library'
-include ':mscV5PlusDemo'
+include ':sanyida', ':app', ':example', ':library'

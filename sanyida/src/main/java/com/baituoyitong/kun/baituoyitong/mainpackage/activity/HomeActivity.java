@@ -237,7 +237,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                 if (isOpenDrawlayout) {
                     //actionbar的左侧图标的点击事件处理   关联侧滑布局
                     my_drawlayout.openDrawer(Gravity.LEFT);
-                    //// TODO: 2017/4/11   修改自定义toolbar的图标
+
                     //修改图标
                     iv_control_drawlayout.setBackgroundResource(R.drawable.menu);
                 }
